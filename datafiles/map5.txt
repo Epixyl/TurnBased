@@ -1,0 +1,42 @@
+!0Nicely done!
+!1Thanks! I'm glad the hardest lesson is over!
+!0We're not even halfway back to the city yet! I've got a lot more to teach you.
+!1Darn! I can already see some new units...why are they grey?
+!0Grey units are neutral. Those units can be captured by placing allied units directly next to them. 
+!0At the end of each turn, the number of units nearby that are not fully exhausted are added to the counter.
+!1So you're telling me that if I attack with a unit, it can't capture that turn?
+!0Yep! Fully exhausted units can't capture structures.
+!0If the counter reaches 3, the structure becomes yours.
+!1Can I capture enemy structures?
+!0Yes! But you have to neutralize it first by reducing the structure's HP to 0.
+!0Structures can never die: if they are reduced to 0 HP, they become neutral and capturable.
+!1Hmm, so even if I neutralize a structure, the enemy can recapture very quickly if I don't take care of other enemy units?
+!0Yes...If an enemy can manage to get 3 of their units next to the neutralized structure, it can be captured in just 1 turn!
+!1I'll keep that in mind...but I still don't know what each structure does!
+!0Capturable structures include: #Barracks (Deploy land units),#Villages (Gain gold per turn),
+!0Towers (Shoot bullets at enemies),#and Harbors (Not introduced yet, but they deploy naval units).
+!1Alright, I think I'm ready!
+!0Remember: If there are 3 living enemy units nearby a structure, they will likely be able to recapture it if you kill the structure!
+!0Also, only units that are NOT fully exhausted can capture!
+!1OK!
+*
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+00000000v0000000
+0000000000000000
+0n00bt0000tb00u0
+0000000000000000
+0000000v00000000
+0000000000000000
+0000000000000000
+0000000000000000
+a
+r021304
+b131304
+end

@@ -1,0 +1,32 @@
+!Naval Units are powerful and mobile, but can only move through water. Deploy them through harbors.
+!Cruisers are fast, but have low RNG.
+!Battleships are very powerful with a long RNG, but can't attack on the same turn it moves.
+!Auxiliaries supply adjacent units, healing them for 2HP per turn.
+!Submarines are extremely powerful, but can only fire on units in water. However, the submarine is immune to basic attacks.
+!Ferries act like carriers that move across water.
+!(Hint: Quickly capture the harbor before the enemy to gain a massive advantage.)
+*
+4444444444444444
+4444444444444444
+4444444444444444
+4111114444444444
+1100011444444444
+10p0001444444444
+100n001444444444
+10000h1444444444
+1100011114444444
+4111111111111114
+4444444111100011
+4444444441h00001
+444444444100u001
+4444444441000q01
+4444444441100011
+4444444444111114
+a
+r040702
+r040822
+r040623
+b111102
+end
+
+

@@ -1,0 +1,34 @@
+!1WHOA!
+!0There's a lot more to the world than just plain grass.
+!1Yeah! Are these just aesthetic changes?
+!0No, each type of terrain takes a different SPD to travel over. Plus, some units cant travel on certain terrain.
+!0Use knowledge of terrain to your advantage. Here are the terrain types and how much SPD is needed to cross them:
+!0Field - 1 SPD#Water - 2 SPD (1 SPD for naval units)#Road - 0.67 SPD
+!0Forest - 1.5 SPD#Mountain - 2 SPD (Only living units can cross.)#Deep Water - 1 SPD (Only naval units can cross.)
+!0Furthermore, your units can pass through allied or neutral units, but not enemy units.
+!0Left Clicking any unit will show you the possible spaces it can move to, and Right Clicking will show you the attack range of the unit.
+!0Use this to your advantage and position your units in places where they can't be attacked.
+!0It looks like there's an opponent waiting for you...I think you're ready to face him.
+!1I won't let you down!
+!0Good luck!
+*
+4444444444444444
+4444444444444444
+4444444444444444
+4444444444444444
+1111111111111111
+1111111111111111
+0000000000000000
+5502222222222055
+5502000000002055
+5502033333302055
+5502033333302055
+5502033333302055
+5502033333302055
+0002033333302000
+0np2033333302qu0
+0000033333300000
+a
+r031304
+b121304
+end

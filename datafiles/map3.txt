@@ -1,0 +1,47 @@
+!1Are we there yet?
+!0No, we still have a while to go. Besides, your training is not complete.
+!2I challenge you to a D-D-D-D-DUEL!!!
+!1Huh? Man, such blatant copyright infrin-
+!0*ACHEM* Let's accept the challenge. It will be a nice learning experience.
+!0I can see some Barracks on the field. They allow you to deploy additional units by expending gold.
+!1Fine. But you have to guide me.
+!0Of course! (to self) She'd die instantly without guidance...
+!1I heard that!
+!2I'm hearing the sobbing of a defeated girl already! Hurry up and let's D-D-D-D-DUEL!!!
+!0Alright, now Right Click your barrack to see the units you can spawn. 
+!0Left Click a unit on the right to select it, and Left Click a green square to deploy the unit. Each unit costs gold to deploy.
+!1How do I get gold to spend?
+!0The nexus provides 5 Gold per turn.
+!1Cool!
+!0Note how the barracks turn dark grey after deploying a unit. Each can only deploy 1 unit each turn.
+!0For reference, I'll explain the units that you can select in detail, so pay attention!
+!0Swordsmen are slow, but they are powerful. You should deploy these to protect your back line, as they are easily killed.
+!0Archers are long-ranged, but have low HP. They are a safe source of damage, but are weak against non-living units.
+!0Paladins are the tanks of the game. They have low ATK but very high HP and SPD. Rush these out to weaken important enemy units.
+!0Scouts are fast and have low cost. They are immune to all land terrain effects, including roads and mountains! They are perfect for capturing structures.
+!0Trebuchets are indirect fire units. They can't attack and move on the same turn. However, they deal extreme damage and have long RNG.
+!0Grenadiers are essential for capturing, since they are strong against non-living units like structures. They are very mobile and deal a good amount of damage.
+!0Carriers are used to move units around the map quickly. Right Click them to both take in a unit or drop off a unit.
+!0(Note: Carriers are only exhausted after dropping off a unit. Picking up a unit costs no energy.)
+!1Wow that's a lot of information! I should press [R] if I ever need a refresher on what each unit does!
+!0That's right! I'm sure you can take over from here. I'll watch from a distance.
+!1OK!
+*
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000np0000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000qu0000000
+0000000000000000
+0000000000000000
+a
+end

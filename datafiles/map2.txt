@@ -1,0 +1,52 @@
+!0Good job, young one. I'm very relieved you could win that battle.
+!0After all, this is just the first step.
+!1There's more?!?!
+!0Of course. The Dark Force has infiltrated every corner of this world.
+!0In fact, it is not safe here. We must quickly return to Virtus.
+!1Is this not Virtus? There are structures here!
+!0No, those are nexuses. They act as bases for extended battles away from home.
+!1Darn. I really want to go home.
+!0Patience. Besides, you have not even scratched the surface of being a general.
+!0In fact, we might as well try some more complex battle here while we're at it.
+!1Ok! I think I'm ready!
+!0Good. But first, think strategy. Each unit has 4 basic stats: HP, ATK, SPD, and RNG.
+!0Click on a unit and look on the right to see the details. I'll list each stat out:
+!0Heart = HP (Amount of damage unit can take before dying)
+!0Sword = ATK (Amount of damage unit deals per attack)
+!0Running man = SPD (Max distance the unit can move per turn)
+!0Target = RNG (Max distance unit can attack from)
+!0By looking at these stats, you can calculate the results of each engagement.
+!1Cool! But wait, I attacked and I took damage!
+!0When you attack, the enemy will counterattack if it lives and is in range. 
+!0However, the damage a unit deals is reduced when the unit is damaged.
+!0Since you attack first, the enemy takes damage before it can counterattack. 
+!0Thus, it is important to get the first strike on the enemy to minimize the damage you take. 
+!1Wow! I didn't know! I guess i shouldn't just charge in if I can't attack!
+!0Precisely. Going in will only let the opponent get the first hit.
+!0Destroy the nexus to win, or simply just remove all other units. Nexuses regenerate 1 HP per turn.
+*
+0000000000000000
+0000000000000000
+0000000n00000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+00000000u0000000
+0000000000000000
+0000000000000000
+a
+r070503
+r070404
+r070302
+b081003
+b081104
+r070602
+b080902
+end

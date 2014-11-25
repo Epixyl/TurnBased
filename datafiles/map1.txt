@@ -1,0 +1,48 @@
+!0ZzzZzzZzz...
+!1Taurus!
+!0...ZzzZzzZzz...
+!1Taurus! Wake up!
+!0...huh?
+!1Wake up! Get ready! The queen has summoned you to her castle!
+!0Serafina, stop kidding around. There's no way-
+!1No really, look here!
+!0What!?! How did she find out abou-
+!1No, silly! It says here she's gathering all the Heroes of our land...but it doesn't say why...
+!0But- But... As far as I know, I'm not a Hero...Our family has been farmers for as long as I've known...
+!1I don't know, but if the queen's summoned you, you'd better go...
+!0Alright. I'll leave tomorrow. Isn't it time to make supper soon? You go along ahead, sis. I'll grab some chickens from the farm.
+!1Alright, Taurus. Don't fall asleep or the chickens'll peck your face out!
+!0Ha-ha very funny. Please leave before I feel the need to chase you down.
+!1You say that like you'd be able to... Well, bye!
+!0Bye!#(Serafina exits.)
+!0Summoned by the queen? Why would she need me?
+!0...Am I a hero?
+!0No, it can't be. Hmm...
+!0Ah well. I'll ponder this thought tomorrow. I need to gather some chickens for dinner.
+w0Alright, I think this is enough.
+w0I wonder what tomorrow will bring...
+l0Angry chickens?!!
+l0I have to hurry up!
+*
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+0000000000000000
+a
+b070423
+b071023
+b100723
+r070701
+end
